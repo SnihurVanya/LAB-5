@@ -1,0 +1,6 @@
+1;hlib;5,5;eat every day;product
+2;sir;25;eat not every day;product
+3;Fary;20;mit posud;himia
+4;ruchka;7;pisat konspekt;kanselyariya
+5;podushka;200;spat;dom
+6;shampun;40;mit golovu;himia

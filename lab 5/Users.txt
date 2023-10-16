@@ -1,0 +1,3 @@
+1;petro;var123;1,2,3
+2;sanya;fps;8,2
+3;vasya;wasd;3,8
